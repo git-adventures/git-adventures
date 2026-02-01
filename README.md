@@ -2,7 +2,7 @@
 
 # 👋 Hello!
 
-Full-stack developer with a passion for building modern web applications. Experienced with React, TypeScript, and Next.js ecosystems. Comfortable working across the entire stack — from polished UIs to backend logic and database design. Always looking to ship fast, learn faster, and build things that matter.
+Software developer passionate about turning ideas into real products. Built AI-powered platforms, SaaS applications, and mobile apps from the ground up. Familiar with both remote and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable with full-stack web, mobile, and API development.
 
 ---
 
