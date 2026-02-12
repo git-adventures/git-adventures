@@ -14,7 +14,6 @@ Software developer passionate about turning ideas into real products. Built AI-p
 ![React](https://img.shields.io/badge/Code-React-61dafb?style=flat&logo=react&logoColor=black&labelColor=2c3e50)
 ![Next.js](https://img.shields.io/badge/Code-Next.js-ffffff?style=flat&logo=next.js&logoColor=black&labelColor=2c3e50)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=2c3e50)
-![NestJS](https://img.shields.io/badge/Code-NestJS-e0234d?style=flat&logo=nestjs&logoColor=white&labelColor=2c3e50)
 ![Python](https://img.shields.io/badge/Code-Python-3572A5?style=flat&logo=python&logoColor=white&labelColor=2c3e50)
 ![Dart](https://img.shields.io/badge/Code-Dart-0175C2?style=flat&logo=dart&logoColor=white&labelColor=2c3e50)
 ![Flutter](https://img.shields.io/badge/Code-Flutter-54C5F8?style=flat&logo=flutter&logoColor=white&labelColor=2c3e50)
