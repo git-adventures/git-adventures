@@ -15,8 +15,8 @@ Software engineer specializing in scalable SaaS platforms and AI-driven applicat
 ![Node.js](https://img.shields.io/badge/Code-Node.js-339933?style=flat\&logo=node.js\&logoColor=white\&labelColor=2c3e50)
 ![Python](https://img.shields.io/badge/Code-Python-3572A5?style=flat\&logo=python\&logoColor=white\&labelColor=2c3e50)
 ![Django](https://img.shields.io/badge/Code-Django-092E20?style=flat\&logo=django\&logoColor=white\&labelColor=2c3e50)
-![Dart](https://img.shields.io/badge/Code-Dart-0175C2?style=flat\&logo=dart\&logoColor=white\&labelColor=2c3e50)
-![Flutter](https://img.shields.io/badge/Code-Flutter-54C5F8?style=flat\&logo=flutter\&logoColor=white\&labelColor=2c3e50)
+<!-- ![Dart](https://img.shields.io/badge/Code-Dart-0175C2?style=flat\&logo=dart\&logoColor=white\&labelColor=2c3e50) -->
+<!-- ![Flutter](https://img.shields.io/badge/Code-Flutter-54C5F8?style=flat\&logo=flutter\&logoColor=white\&labelColor=2c3e50) -->
 ![Tailwind CSS](https://img.shields.io/badge/Tool-Tailwind%20CSS-06b6d4?style=flat\&logo=tailwindcss\&logoColor=white\&labelColor=2c3e50)
 ![Bootstrap](https://img.shields.io/badge/Tool-Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white\&labelColor=2c3e50)
 ![Docker](https://img.shields.io/badge/Tool-Docker-2496ed?style=flat\&logo=docker\&logoColor=white\&labelColor=2c3e50)
